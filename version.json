@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4",
-  "downloadUrl": "https://github.com/libai56/social-auto-upload-tool/releases/download/v1.1.4/selfmedia-assistant_v1.1.4.zip",
-  "changelog": "测试",
+  "version": "1.1.5",
+  "downloadUrl": "https://github.com/libai56/social-auto-upload-tool/releases/download/v1.1.5/selfmedia-assistant_v1.1.5.zip",
+  "changelog": "新图标 — 蓝紫渐变圆形 + 白色上传箭头，已设置为窗口和任务栏图标\n快手刷新白屏 — 前端数据为空时组件崩溃，已加安全访问检查\n  3.   侧边栏新增「数据分析」菜单\n顶部选择账号，显示该账号的概览数据：粉丝、关注、获赞、作品数\n下方作品列表：封面、标题、播放量、点赞、评论、分享、发布日期\n所有数据列支持点击排序\n点「刷新数据」重新获取",
   "forceUpdate": false,
-  "releaseDate": "2026-08-24"
+  "releaseDate": "2026-08-25"
 }

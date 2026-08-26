@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "downloadUrl": "https://github.com/libai56/social-auto-upload-tool/releases/download/v1.2.1/selfmedia-assistant_v1.2.1.zip",
-  "changelog": "1.数据分析刷新时显示实时进度条和抓取阶段；2.作品列表改为获取全部（不再只限20条）；3.详情页支持直接播放视频：抖音内嵌播放器、B站官方播放器嵌入，小红书/快手可一键跳转原作品观看。",
+  "version": "1.2.2",
+  "downloadUrl": "https://github.com/libai56/social-auto-upload-tool/releases/download/v1.2.2/selfmedia-assistant_v1.2.2.zip",
+  "changelog": "自动更新提速与修复：1.测速改为多线路并行，8秒内选出最快线路；2.下载改为最多8线程分块并行，明显加快；3.修复更新到100%后旧界面残留、程序不自动重启的问题（现在会连同内置窗口一起干净关闭并重启）。",
   "forceUpdate": false,
   "releaseDate": "2026-08-26"
 }

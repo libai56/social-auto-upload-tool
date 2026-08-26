@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
-  "downloadUrl": "https://github.com/libai56/social-auto-upload-tool/releases/download/v1.1.7/selfmedia-assistant_v1.1.7.zip",
-  "changelog": "1.小红书改为手动发布\n2.数据分析新增小红书作品数据+作品详情弹窗\n3.新增傻瓜式自动更新（测速选线/断点续传/国内加速）\n4.安装包体积减半，下载更快更稳",
+  "version": "1.1.8",
+  "downloadUrl": "https://github.com/libai56/social-auto-upload-tool/releases/download/v1.1.8/selfmedia-assistant_v1.1.8.zip",
+  "changelog": "1.修复其他电脑自动更新下载失败：测速选线+断点续传+失败重试\n2.安装包体积减半(195→104MB)，下载更快更稳\n3.小红书手动发布、小红书数据分析、作品详情等功能",
   "forceUpdate": false,
   "releaseDate": "2026-08-26"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.1.9",
-  "downloadUrl": "https://github.com/libai56/social-auto-upload-tool/releases/download/v1.1.9/selfmedia-assistant_v1.1.9.zip",
-  "changelog": "修复数据分析抖音/快手等平台报错 PlaywrightContextManager has no attribute _playwright 的问题（打包时误删浏览器驱动文件所致），并优化多账号快速切换的并发稳定性。",
+  "version": "1.2.0",
+  "downloadUrl": "https://github.com/libai56/social-auto-upload-tool/releases/download/v1.2.0/selfmedia-assistant_v1.2.0.zip",
+  "changelog": "彻底修复自动更新下载到100%后卡住、不自动重启的问题：更新完成后程序会自动关闭、释放文件、覆盖新版本并重新启动，全程无需手动操作。",
   "forceUpdate": false,
   "releaseDate": "2026-08-26"
 }

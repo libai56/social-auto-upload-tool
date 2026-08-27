@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "downloadUrl": "https://github.com/libai56/social-auto-upload-tool/releases/download/v1.2.4/selfmedia-assistant_v1.2.4.zip",
-  "changelog": "发布页新增提示：勾选小红书时会提示其暂时无法自动操作（需手动完成），自动能力等待后续版本修复。",
+  "version": "1.2.5",
+  "downloadUrl": "https://github.com/libai56/social-auto-upload-tool/releases/download/v1.2.5/selfmedia-assistant_v1.2.5.zip",
+  "changelog": "更换软件图标：高清重绘紫色上传箭头品牌图标，统一应用到程序图标、任务栏/窗口标题及内置浏览器标签图标，显示更清晰。",
   "forceUpdate": false,
   "releaseDate": "2026-08-27"
 }

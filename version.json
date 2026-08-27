@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
-  "downloadUrl": "https://github.com/libai56/social-auto-upload-tool/releases/download/v1.2.3/selfmedia-assistant_v1.2.3.zip",
-  "changelog": "修复B站发布时标题偶发变成乱码的问题：改用原生方式精确填写中文标题，并在读回校验确认无误后才继续，若被页面自动回填覆盖会自动重填。",
+  "version": "1.2.4",
+  "downloadUrl": "https://github.com/libai56/social-auto-upload-tool/releases/download/v1.2.4/selfmedia-assistant_v1.2.4.zip",
+  "changelog": "发布页新增提示：勾选小红书时会提示其暂时无法自动操作（需手动完成），自动能力等待后续版本修复。",
   "forceUpdate": false,
   "releaseDate": "2026-08-27"
 }
